@@ -1,1 +1,1 @@
-# Sakila-Database-Graphical-UserI-nterface
+# Sakila-Database-Graphical-User-Interface
